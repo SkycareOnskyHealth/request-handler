@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	requestHandler "github.com/onskycloud/request-handler"
+	requestHandler "github.com/SkycareOnskyHealth/request-handler"
 )
 
 type TestData struct {

@@ -1,4 +1,4 @@
-module github.com/onskycloud/request-handler
+module github.com/SkycareOnskyHealth/request-handler
 
 go 1.13
 
